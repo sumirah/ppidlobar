@@ -1,3 +1,3 @@
 # PPID LOBAR
-PPID Kabupaten Lombok Barat
-Url API masih kosong
+# PPID Kabupaten Lombok Barat
+# Url API masih kosong
